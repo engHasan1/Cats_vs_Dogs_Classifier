@@ -27,5 +27,5 @@ This project aims to classify images as either cats or dogs using a VGG16 model 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cats-vs-dogs-classifier.git
+git clone https://github.com/engHasan1/cats-vs-dogs-classifier.git
 cd cats-vs-dogs-classifier
