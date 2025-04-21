@@ -16,22 +16,13 @@ This project aims to classify images as either cats or dogs using a VGG16 model 
 ## Files
 - `Cats_vs_Dogs_Classifier.py`: Script for training the model using Google Colab.
 - `classify_with_camera.py`: Script for real-time classification using a camera.
-- `cats_vs_dogs_model_vgg16_finetuned.keras`: The trained model (validation accuracy: 90.38%).  
+- `cats_vs_dogs_model_vgg16_finetuned.keras`: The trained model (validation accuracy: 90.38%).
   - **Download the Model**: Due to its large size (116 MB), you can download the model from [Google Drive](https://drive.google.com/file/d/1fGvzr3ZQXqDpoTHi_C-RHyLdFzq3gRnL/view?usp=drive_link).
 - `accuracy_plot_vgg16_finetuned.png`: Plot of training and validation accuracy.
 
-## Requirements
-- Python 3.x
-- Required libraries:
-  - TensorFlow
-  - OpenCV (`cv2`)
-  - NumPy
-  - Matplotlib
-- Install the libraries using:
-
 ## Instructions
 - **Requirements**: You need Python 3.x and the following libraries: TensorFlow, OpenCV (`cv2`), NumPy, and Matplotlib. Install them using:
-- - **How to Use**:
+- **How to Use**:
 1. Clone the repository from GitHub:
 2. Ensure the requirements are installed (see above).
 3. Download the model from the link above and place it in the project folder.
